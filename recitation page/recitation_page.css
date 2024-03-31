@@ -1,0 +1,64 @@
+
+/* Navbar styles */
+.navbar {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Introductory Section styles */
+.intro-section {
+    padding: 50px 0;
+}
+
+/* Description Section styles */
+.description-section {
+    padding: 20px 0;
+}
+
+/* List of Quran Chapters styles */
+.quran-chapters-list {
+    list-style: none;
+    padding: 0;
+}
+
+.quran-chapters-list li {
+    margin-bottom: 10px;
+}
+
+/* Footer styles */
+.footer-section {
+    background-color: #f8f9fa;
+    color: #333;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footer-section p {
+    margin: 0;
+    font-size: 14px;
+}
+/* .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+} */
+
+.chapter {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.chapter h2 {
+    margin-top: 0;
+}
+
+.chapter p {
+    margin-bottom: 0;
+}
